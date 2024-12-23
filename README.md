@@ -1,8 +1,8 @@
-# Docker env for symfony applications
-Welcome to the mini structure for laravel/postgres/nginx applications.
+# Docker env for php applications
+Welcome to the mini structure for laravel/symfony/postgres/nginx applications.
 
 
-This project contains the docker structure to create new project in laravel.
+This project contains the docker structure to create new project in laravel/symfony.
 
 ### step 1
 ```
@@ -21,7 +21,7 @@ docker-compose down -v
 ```
 
 What this project contains:
-- php 8.2
+- php 8.4
 - composer
 - postgres
 - nginx
